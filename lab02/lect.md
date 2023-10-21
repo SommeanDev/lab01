@@ -16,5 +16,3 @@ Date:   Sat Oct 14 15:45:38 2023 +0530
     Initial commit
 
 ```
-
-this is a mistake
