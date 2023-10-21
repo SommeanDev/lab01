@@ -16,3 +16,18 @@ Date:   Sat Oct 14 15:45:38 2023 +0530
     Initial commit
 
 ```
+
+# Dot-files
+
+a dot file is used to keep the configurations for the server
+
+# Package Managers
+
+connect to a remote repo and download libraries for ex: apt in linux, winget in windows, npm for node.js, etc.
+
+stores downloads in /vendor
+this is why a /vendor is in .gitignore
+
+# namespaces
+
+used to avoid conflicts between packages such as functions with same names, etc.
